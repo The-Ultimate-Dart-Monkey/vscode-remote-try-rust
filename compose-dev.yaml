@@ -1,7 +1,0 @@
-services:
-  app:
-    entrypoint:
-    - sleep
-    - infinity
-    image: rust
-

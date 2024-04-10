@@ -1,10 +1,8 @@
+use std::io;
 
-/*--------------------------------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
- *-------------------------------------------------------------------------------------------------------------*/
+fn main() {
+    println!("Guess the numberj!");
 
-fn main(){
-    let name = "This is the first day";
-    println!("{}", name);
+    println!("Please input your guess.");
+
 }
